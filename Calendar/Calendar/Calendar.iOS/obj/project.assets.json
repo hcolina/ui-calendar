@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar.iOS\\Calendar.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar.iOS\\Calendar.iOS.csproj",
       "projectName": "Calendar.iOS",
-      "projectPath": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar.iOS\\Calendar.iOS.csproj",
+      "projectPath": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar.iOS\\Calendar.iOS.csproj",
       "packagesPath": "C:\\Users\\slush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar.iOS\\obj\\",
+      "outputPath": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar\\Calendar.csproj": {
-              "projectPath": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar\\Calendar.csproj"
+            "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar\\Calendar.csproj": {
+              "projectPath": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar\\Calendar.csproj"
             }
           }
         }

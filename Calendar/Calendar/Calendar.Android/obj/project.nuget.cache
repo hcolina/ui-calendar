@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jSP6Zz4cPl4YZxAwwUkAy+ptaSXi7ULn9rOuozYrd9WzEOl/Rnl9Hw7wdUK4BRidSFhO+8x6qdehcWyE6qWk5A==",
+  "dgSpecHash": "WTCsOPEImv/15xwCBB1OlPbGKG3mJhyiPAusMLCp2s/QBF7taG6yxSe0WWDmTTBarcJVQPxp86MTFhnwDLZv5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar.Android\\Calendar.Android.csproj",
+  "projectFilePath": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar.Android\\Calendar.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

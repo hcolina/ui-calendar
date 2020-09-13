@@ -31,7 +31,7 @@
         <Label Grid.Row="1"
                Grid.Column="1"
                Grid.ColumnSpan="2"
-               Text="Monday, 5th&#10;April"
+               Text="Thursday, 12th&#10;July"
                Margin="0,-50,0,0"
                TextColor="#535257"
                FontAttributes="Bold"

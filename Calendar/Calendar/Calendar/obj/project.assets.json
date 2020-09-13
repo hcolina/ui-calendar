@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar\\Calendar.csproj",
+      "projectUniqueName": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar\\Calendar.csproj",
       "projectName": "Calendar",
-      "projectPath": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar\\Calendar.csproj",
+      "projectPath": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar\\Calendar.csproj",
       "packagesPath": "C:\\Users\\slush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar\\obj\\",
+      "outputPath": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

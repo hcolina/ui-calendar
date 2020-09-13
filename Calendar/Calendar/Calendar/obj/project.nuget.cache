@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJU4YckAU8bSzq8U9wqK5ZcNfqkdTlUDkY9I00/c5S/6gVOyka/Et1wlJsORmQ339DeyNNNoLXRgreUqZa45rQ==",
+  "dgSpecHash": "SKFcxjTC2oLguTxIl8ZbOzjJ5ODS+yU+eP3NueSnYyvRAO5c0WtcISNhLgLCQn+NI8itVSLJagBa0R94qditDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slush\\source\\repos\\Calendar\\Calendar\\Calendar\\Calendar.csproj",
+  "projectFilePath": "C:\\Users\\slush\\Desktop\\QWE\\ui-calendar\\Calendar\\Calendar\\Calendar\\Calendar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slush\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\slush\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,0 +1,8 @@
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\optimized\
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\Calendar.iOS.csprojAssemblyReference.cache
+C:\Users\slush\source\repos\Calendar\Calendar\Calendar.iOS\obj\iPhone\Debug\Calendar.iOS.csproj.CoreCompileInputs.cache
